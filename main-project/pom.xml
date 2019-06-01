@@ -27,7 +27,6 @@
 
   <modules>
     <module>b-project</module>
-    <module>c-project</module>
     <module>d-project</module>
   </modules>
 </project>

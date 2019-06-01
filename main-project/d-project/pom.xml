@@ -21,11 +21,6 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>fmi.plovdiv</groupId>
-      <artifactId>c-project</artifactId>
-      <version>1.0-SNAPSHOT</version>
-    </dependency>
   </dependencies>
 
 </project>
